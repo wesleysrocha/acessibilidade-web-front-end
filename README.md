@@ -3,5 +3,4 @@
 **PÚBLICO ALVO:** autistas, disléxicos, surdos, deficientes visuais e físicos.
 
 # LAYOUT
-![1](C:\Users\wesley\Downloads\acessibilidade-web-front-end-2-7322e9ea918a0a4a4abe7f4a87a1c1eb5974b0a4/acessibilidade-web-front-end-1.png)
-
+![acessibilidade-web-front-end-1](https://user-images.githubusercontent.com/84814160/119595880-9e263880-bdb4-11eb-9b66-a32d8ec58bbf.png)
